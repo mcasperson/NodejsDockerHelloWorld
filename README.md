@@ -1,0 +1,1 @@
+This is the sample code for the book [ECR, EKS and Node.js Docker images: A step by step guide to deploying to Kubernetes in AWS](https://www.amazon.com/ECR-EKS-Node-js-Docker-images-ebook/dp/B084L545C6/ref=sr_1_6?dchild=1&keywords=matthew+casperson&qid=1591219257&sr=8-6).
