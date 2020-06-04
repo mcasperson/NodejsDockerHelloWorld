@@ -1,0 +1,1 @@
+Compress-Archive -Path index.js, Procfile -DestinationPath beanstalk-app-bundle.zip -Force
